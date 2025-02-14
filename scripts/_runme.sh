@@ -44,6 +44,9 @@ main() {
   info "bashの設定ファイルを配置します。"
   runme run bash-install
 
+  info "ghosttyの設定ファイルを配置します。"
+  runme run ghostty-install
+
   info "gitの設定ファイルを配置します。"
   runme run git-install
 

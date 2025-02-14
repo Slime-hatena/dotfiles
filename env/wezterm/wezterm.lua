@@ -7,6 +7,7 @@ local wezterm = require 'wezterm';
 -- end)
 
 return {
+  term = 'wezterm',
   default_prog = { '/bin/bash', '--login' },
   -- window fullscreen (alwayz fullsize window)
   -- window_decorations = "TITLE | RESIZE",

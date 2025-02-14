@@ -16,3 +16,4 @@ cask "pleck-jp"
 cask "slack"
 cask "visual-studio-code", args: { appdir: "/Applications" }
 cask "wezterm"
+cask "ghostty"

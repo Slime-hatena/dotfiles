@@ -5,5 +5,5 @@
 ## install
 
 ```sh { name=nvim-install }
-ln -nfs ~/.dotfiles/env/nvim/config ~/.config/nvim
+ln -nfs ~/.dotfiles/env/nvim/LazyVim ~/.config/nvim
 ```
