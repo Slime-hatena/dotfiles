@@ -3,7 +3,8 @@ font-family = "PleckJP"
 font-size = 16
 
 # Themes
-theme = ayu_light
+theme = catppuccin-latte.conf
+# theme = ayu_light
 # theme = Ayu Mirage
 # theme = Snazzy
 # theme = Snazzy Soft

@@ -8,6 +8,7 @@
 # for ssh logins, install and configure the libpam-umask package.
 #umask 022
 
+XDG_CONFIG_HOME=$HOME/.config
 DEFAULT_SHELL="$(brew --prefix)/bin/zsh --login"
 
 # if running bash

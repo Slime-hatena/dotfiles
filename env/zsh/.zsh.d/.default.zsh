@@ -21,6 +21,7 @@ DISABLE_AUTO_TITLE="true"
 
 export LSCOLORS=cxfxcxdxbxegedabagacad
 alias ls='ls -GF'
+alias rmm='rm'
 alias rm='trash'
 
 export FZF_DEFAULT_OPTS='--height 40% --reverse --select-1'
